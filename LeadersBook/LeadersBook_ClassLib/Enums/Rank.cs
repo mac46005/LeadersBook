@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LeadersBook_ClassLib.Models
+namespace LeadersBook_ClassLib.Enums
 {
     /// <summary>
     /// Army military ranks
