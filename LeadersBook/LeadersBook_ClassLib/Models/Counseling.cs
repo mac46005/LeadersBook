@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 
 namespace LeadersBook_ClassLib.Models
 {
-    public class Counseling<T, U, V> : ICounseling<T, U, V>
+    public class Counseling : ICounseling<int, int, ISoldier<int, int>>
     {
-        public ISoldier<T, U>? Soldier { get; set; }
+        public ISoldier<int, int>? Soldier { get; set; }
         public DateTime? InitialCounselingDate { get;set; }
         public DateTime? PerformanceCounselingDate { get;set; }
         public DateTime? NextPerformanceCounselingDate { get;set; }
-        public U Model_ID { get;set; }
-        public T ID { get;set; }
+        public int Model_ID { get;set; }
+        public int ID { get;set; }
     }
 }

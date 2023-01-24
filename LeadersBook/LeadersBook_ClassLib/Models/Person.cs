@@ -7,13 +7,12 @@ using System.Threading.Tasks;
 
 namespace LeadersBook_ClassLib.Models
 {
-    public class Address : IAddress<int, int, ISoldier<int, int>>
+    public class Person : IPerson<int, int, ISoldier<int, int>>
     {
-        public string? Street { get; set; }
-        public string? City { get;set; }
-        public string? State { get;set; }
-        public string? PostalCode { get;set; }
-        public string? Country { get;set; }
+        public string? FirstName { get; set; }
+        public string? LastName { get;set; }
+        public DateTime? DOB { get;set; }
+        public string? Gender { get;set; }
         public int Model_ID { get;set; }
         public int ID { get;set; }
     }
