@@ -1,4 +1,5 @@
-﻿using LeadersBook_ClassLib.Enums;
+﻿using DbManipulation_ClassLib.Interfaces;
+using LeadersBook_ClassLib.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace LeadersBook_ClassLib.Interfaces
 {
-    public interface ISoldierInfo
+    public interface ISoldierInfo<T,U,V> : IModel_OneToOne<T,U, V>
     {
         Rank Rank { get; set; }
         /// <summary>

@@ -8,11 +8,10 @@ using System.Threading.Tasks;
 
 namespace LeadersBook_ClassLib.Interfaces
 {
-    public interface IPerson<T,U,V> : IModel_OneToOne<T,U, V>
+    public interface IWeaponsQualification<T,U,V> : IModel_OneToOne<T,U,V>
     {
-        string FirstName { get; set; }
-        string LastName { get; set; }
-        DateTime DOB { get; set; }
-        string Gender { get; set; }
+        DateTime DateQualified { get; set; }
+        string Type { get; set; }
+        WeaponsQualificationType Qualification { get; set; }
     }
 }
