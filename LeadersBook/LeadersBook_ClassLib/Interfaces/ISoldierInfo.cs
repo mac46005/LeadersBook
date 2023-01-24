@@ -10,6 +10,7 @@ namespace LeadersBook_ClassLib.Interfaces
 {
     public interface ISoldierInfo<T,U,V> : IModel_OneToOne<T,U, V>
     {
+        string UnitName { get; set; }
         Rank Rank { get; set; }
         /// <summary>
         /// Date of rank

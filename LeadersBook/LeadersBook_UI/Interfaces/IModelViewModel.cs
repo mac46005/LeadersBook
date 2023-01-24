@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LeadersBook_UI.Interfaces
 {
-    public interface IModelViewModel<T,U> where T : IModel<U>
+    public interface IModelViewModel<T,U> : IBaseViewModel where T : IModel<U>
     {
         T Model { get; set; }
     }

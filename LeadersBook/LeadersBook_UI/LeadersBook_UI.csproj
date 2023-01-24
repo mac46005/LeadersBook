@@ -50,8 +50,11 @@
 
 	<ItemGroup>
 	  <Folder Include="MVVM\Models\" />
-	  <Folder Include="MVVM\ViewModels\" />
 	  <Folder Include="MVVM\Views\" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="CommunityToolkit.Mvvm" Version="8.1.0" />
 	</ItemGroup>
 
 	<ItemGroup>
