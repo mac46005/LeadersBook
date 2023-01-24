@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LeadersBook_ClassLib.Interfaces
 {
-    public interface IServedCrewWeaponInfo<T,U,V> : IModel_OneToOne<T,U,V>, IExamDate
+    public interface IServedCrewWeaponInformation<T,U,V> : IModel_OneToOne<T,U,V>, IExamDate
     {
         string? Type { get; set; }
     }
