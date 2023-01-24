@@ -1943,6 +1943,29 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        }
       }
     },
     "net6.0-android31.0/android-arm": {
@@ -3886,6 +3909,29 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
         }
       }
     },
@@ -5831,6 +5877,29 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        }
       }
     },
     "net6.0-android31.0/android-x64": {
@@ -7774,6 +7843,29 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
         }
       }
     },
@@ -9719,6 +9811,29 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        }
       }
     },
     "net6.0-android31.0/iossimulator-x64": {
@@ -11662,6 +11777,29 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
         }
       }
     },
@@ -13607,6 +13745,29 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        }
       }
     },
     "net6.0-android31.0/win10-x64": {
@@ -15551,6 +15712,29 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        }
       }
     },
     "net6.0-ios16.0": {
@@ -15766,6 +15950,29 @@
           "ref/net6.0/System.Runtime.InteropServices.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
         }
       }
     },
@@ -15983,6 +16190,29 @@
             "related": ".xml"
           }
         }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        }
       }
     },
     "net6.0-ios16.0/android-arm64": {
@@ -16198,6 +16428,29 @@
           "ref/net6.0/System.Runtime.InteropServices.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
         }
       }
     },
@@ -16415,6 +16668,29 @@
             "related": ".xml"
           }
         }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        }
       }
     },
     "net6.0-ios16.0/android-x86": {
@@ -16630,6 +16906,29 @@
           "ref/net6.0/System.Runtime.InteropServices.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
         }
       }
     },
@@ -16847,6 +17146,29 @@
             "related": ".xml"
           }
         }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        }
       }
     },
     "net6.0-ios16.0/maccatalyst-x64": {
@@ -17062,6 +17384,29 @@
           "ref/net6.0/System.Runtime.InteropServices.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
         }
       }
     },
@@ -17279,6 +17624,29 @@
             "related": ".xml"
           }
         }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        }
       }
     },
     "net6.0-maccatalyst15.4": {
@@ -17494,6 +17862,29 @@
           "ref/net6.0/System.Runtime.InteropServices.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
         }
       }
     },
@@ -17711,6 +18102,29 @@
             "related": ".xml"
           }
         }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        }
       }
     },
     "net6.0-maccatalyst15.4/android-arm64": {
@@ -17926,6 +18340,29 @@
           "ref/net6.0/System.Runtime.InteropServices.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
         }
       }
     },
@@ -18143,6 +18580,29 @@
             "related": ".xml"
           }
         }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        }
       }
     },
     "net6.0-maccatalyst15.4/android-x86": {
@@ -18358,6 +18818,29 @@
           "ref/net6.0/System.Runtime.InteropServices.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
         }
       }
     },
@@ -18575,6 +19058,29 @@
             "related": ".xml"
           }
         }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        }
       }
     },
     "net6.0-maccatalyst15.4/maccatalyst-x64": {
@@ -18791,6 +19297,29 @@
             "related": ".xml"
           }
         }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        }
       }
     },
     "net6.0-maccatalyst15.4/win10-x64": {
@@ -19006,6 +19535,29 @@
           "ref/net6.0/System.Runtime.InteropServices.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
         }
       }
     },
@@ -19348,6 +19900,29 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        }
       }
     },
     "net6.0-windows10.0.19041/android-arm": {
@@ -19660,6 +20235,29 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
         }
       }
     },
@@ -19974,6 +20572,29 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        }
       }
     },
     "net6.0-windows10.0.19041/android-x64": {
@@ -20286,6 +20907,29 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
         }
       }
     },
@@ -20600,6 +21244,29 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        }
       }
     },
     "net6.0-windows10.0.19041/iossimulator-x64": {
@@ -20913,6 +21580,29 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        }
       }
     },
     "net6.0-windows10.0.19041/maccatalyst-x64": {
@@ -21225,6 +21915,29 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
         }
       }
     },
@@ -21544,6 +22257,29 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "DbManipulation_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbManipulation_ClassLib.dll": {}
+        }
+      },
+      "LeadersBook_ClassLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DbManipulation_ClassLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersBook_ClassLib.dll": {}
         }
       }
     }
@@ -24543,24 +25279,42 @@
         "xamarin.kotlinx.coroutines.core.jvm.1.6.0.1.nupkg.sha512",
         "xamarin.kotlinx.coroutines.core.jvm.nuspec"
       ]
+    },
+    "DbManipulation_ClassLib/1.0.0": {
+      "type": "project",
+      "path": "../DbManipulation_ClassLib/DbManipulation_ClassLib.csproj",
+      "msbuildProject": "../DbManipulation_ClassLib/DbManipulation_ClassLib.csproj"
+    },
+    "LeadersBook_ClassLib/1.0.0": {
+      "type": "project",
+      "path": "../LeadersBook_ClassLib/LeadersBook_ClassLib.csproj",
+      "msbuildProject": "../LeadersBook_ClassLib/LeadersBook_ClassLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-android31.0": [
+      "DbManipulation_ClassLib >= 1.0.0",
+      "LeadersBook_ClassLib >= 1.0.0",
       "Microsoft.Maui.Dependencies >= 6.0.547",
       "Microsoft.Maui.Extensions >= 6.0.547"
     ],
     "net6.0-ios16.0": [
+      "DbManipulation_ClassLib >= 1.0.0",
+      "LeadersBook_ClassLib >= 1.0.0",
       "Microsoft.Maui.Dependencies >= 6.0.547",
       "Microsoft.Maui.Extensions >= 6.0.547",
       "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
     ],
     "net6.0-maccatalyst15.4": [
+      "DbManipulation_ClassLib >= 1.0.0",
+      "LeadersBook_ClassLib >= 1.0.0",
       "Microsoft.Maui.Dependencies >= 6.0.547",
       "Microsoft.Maui.Extensions >= 6.0.547",
       "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
     ],
     "net6.0-windows10.0.19041": [
+      "DbManipulation_ClassLib >= 1.0.0",
+      "LeadersBook_ClassLib >= 1.0.0",
       "Microsoft.Maui.Dependencies >= 6.0.547",
       "Microsoft.Maui.Extensions >= 6.0.547",
       "Microsoft.Windows.SDK.BuildTools >= 10.0.22000.194"
@@ -24605,19 +25359,47 @@
       "frameworks": {
         "net6.0-android31.0": {
           "targetAlias": "net6.0-android",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mac46\\Desktop\\LeadersBook\\LeadersBook\\DbManipulation_ClassLib\\DbManipulation_ClassLib.csproj": {
+              "projectPath": "C:\\Users\\mac46\\Desktop\\LeadersBook\\LeadersBook\\DbManipulation_ClassLib\\DbManipulation_ClassLib.csproj"
+            },
+            "C:\\Users\\mac46\\Desktop\\LeadersBook\\LeadersBook\\LeadersBook_ClassLib\\LeadersBook_ClassLib.csproj": {
+              "projectPath": "C:\\Users\\mac46\\Desktop\\LeadersBook\\LeadersBook\\LeadersBook_ClassLib\\LeadersBook_ClassLib.csproj"
+            }
+          }
         },
         "net6.0-ios16.0": {
           "targetAlias": "net6.0-ios",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mac46\\Desktop\\LeadersBook\\LeadersBook\\DbManipulation_ClassLib\\DbManipulation_ClassLib.csproj": {
+              "projectPath": "C:\\Users\\mac46\\Desktop\\LeadersBook\\LeadersBook\\DbManipulation_ClassLib\\DbManipulation_ClassLib.csproj"
+            },
+            "C:\\Users\\mac46\\Desktop\\LeadersBook\\LeadersBook\\LeadersBook_ClassLib\\LeadersBook_ClassLib.csproj": {
+              "projectPath": "C:\\Users\\mac46\\Desktop\\LeadersBook\\LeadersBook\\LeadersBook_ClassLib\\LeadersBook_ClassLib.csproj"
+            }
+          }
         },
         "net6.0-maccatalyst15.4": {
           "targetAlias": "net6.0-maccatalyst",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mac46\\Desktop\\LeadersBook\\LeadersBook\\DbManipulation_ClassLib\\DbManipulation_ClassLib.csproj": {
+              "projectPath": "C:\\Users\\mac46\\Desktop\\LeadersBook\\LeadersBook\\DbManipulation_ClassLib\\DbManipulation_ClassLib.csproj"
+            },
+            "C:\\Users\\mac46\\Desktop\\LeadersBook\\LeadersBook\\LeadersBook_ClassLib\\LeadersBook_ClassLib.csproj": {
+              "projectPath": "C:\\Users\\mac46\\Desktop\\LeadersBook\\LeadersBook\\LeadersBook_ClassLib\\LeadersBook_ClassLib.csproj"
+            }
+          }
         },
         "net6.0-windows10.0.19041": {
           "targetAlias": "net6.0-windows10.0.19041.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mac46\\Desktop\\LeadersBook\\LeadersBook\\DbManipulation_ClassLib\\DbManipulation_ClassLib.csproj": {
+              "projectPath": "C:\\Users\\mac46\\Desktop\\LeadersBook\\LeadersBook\\DbManipulation_ClassLib\\DbManipulation_ClassLib.csproj"
+            },
+            "C:\\Users\\mac46\\Desktop\\LeadersBook\\LeadersBook\\LeadersBook_ClassLib\\LeadersBook_ClassLib.csproj": {
+              "projectPath": "C:\\Users\\mac46\\Desktop\\LeadersBook\\LeadersBook\\LeadersBook_ClassLib\\LeadersBook_ClassLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
