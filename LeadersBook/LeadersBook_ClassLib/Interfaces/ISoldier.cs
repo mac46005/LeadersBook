@@ -17,6 +17,10 @@ namespace LeadersBook_ClassLib.Interfaces
         List<IWeaponsQualification<T,U, ISoldier<T, U>>> WeaponsQualifications { get; set; }
         List<IPhysicalTrainingExam<T,U,ISoldier<T,U>>> PhysicalTrainingExams { get; set; }
         IMilitaryDriversInformation<T,U, ISoldier<T,U>> MilitaryDriversInformation { get; set; }
+        IServedCrewWeaponInfo<T,U,ISoldier<T,U>> ServedCrewWeaponInfo { get; set; }
+        INCO_Information NCO_Information { get; set; }
+        IVehicleInformation<T,U, ISoldier<T,U>> VehicleInformation { get; set; }
+        IRemarks<T,U, ISoldier<T,U>> Remarks { get; set; }
 
     }
 }
