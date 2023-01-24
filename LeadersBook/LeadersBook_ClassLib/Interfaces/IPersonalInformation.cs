@@ -15,5 +15,6 @@ namespace LeadersBook_ClassLib.Interfaces
         IPerson<T,U,V> Spouse { get; set; }
         List<IPerson<T,U,V>> Children { get; set; }
         string Religion { get; set; }
+        string NextOfKin { get; set; }
     }
 }
