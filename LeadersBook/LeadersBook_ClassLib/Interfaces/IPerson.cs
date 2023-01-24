@@ -10,9 +10,9 @@ namespace LeadersBook_ClassLib.Interfaces
 {
     public interface IPerson<T,U,V> : IModel_OneToOne<T,U, V>
     {
-        string FirstName { get; set; }
-        string LastName { get; set; }
-        DateTime DOB { get; set; }
-        string Gender { get; set; }
+        string? FirstName { get; set; }
+        string? LastName { get; set; }
+        DateTime? DOB { get; set; }
+        string? Gender { get; set; }
     }
 }

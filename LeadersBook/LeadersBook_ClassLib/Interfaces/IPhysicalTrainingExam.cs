@@ -9,7 +9,7 @@ namespace LeadersBook_ClassLib.Interfaces
 {
     public interface IPhysicalTrainingExam<T,U,V> : IModel_OneToOne<T, U ,V>, IExamDate
     {
-        decimal Score { get; }
-        List<decimal> Scores { get; set; }
+        decimal? Score { get; }
+        List<decimal>? Scores { get; set; }
     }
 }

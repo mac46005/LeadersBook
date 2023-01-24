@@ -8,11 +8,11 @@ namespace LeadersBook_ClassLib.Interfaces
 {
     public interface IPhysicalInformation
     {
-        decimal Weight { get; set; }
-        decimal Height { get; set; }
-        string Hair { get; set; }
-        string Eyes { get; set; }
-        int Age { get; set; }
-        string BloodType { get; set; }
+        decimal? Weight { get; set; }
+        decimal? Height { get; set; }
+        string? Hair { get; set; }
+        string? Eyes { get; set; }
+        int? Age { get; set; }
+        string? BloodType { get; set; }
     }
 }

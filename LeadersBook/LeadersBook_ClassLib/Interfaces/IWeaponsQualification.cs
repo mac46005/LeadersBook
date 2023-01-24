@@ -10,7 +10,7 @@ namespace LeadersBook_ClassLib.Interfaces
 {
     public interface IWeaponsQualification<T,U,V> : IModel_OneToOne<T,U,V>, IExamDate
     {
-        string Type { get; set; }
-        WeaponsQualificationType Qualification { get; set; }
+        string? Type { get; set; }
+        WeaponsQualificationType? Qualification { get; set; }
     }
 }

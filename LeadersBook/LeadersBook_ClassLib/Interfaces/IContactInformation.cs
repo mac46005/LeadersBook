@@ -9,7 +9,7 @@ namespace LeadersBook_ClassLib.Interfaces
 {
     public interface IContactInformation<T,U,V> : IModel_OneToOne<T, U, V>
     {
-        List<IAddress<T,U,V>> Addresses { get; set; }
-        List<IPhoneNumber<T,U,V>> PhoneNumbers { get; set; }
+        List<IAddress<T,U,V>>? Addresses { get; set; }
+        List<IPhoneNumber<T,U,V>>? PhoneNumbers { get; set; }
     }
 }

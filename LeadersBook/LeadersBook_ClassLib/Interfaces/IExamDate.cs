@@ -8,6 +8,6 @@ namespace LeadersBook_ClassLib.Interfaces
 {
     public interface IExamDate
     {
-        DateTime ExamDate { get; set; }
+        DateTime? ExamDate { get; set; }
     }
 }

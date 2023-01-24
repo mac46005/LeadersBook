@@ -9,6 +9,6 @@ namespace LeadersBook_ClassLib.Interfaces
 {
     public interface IRemarks<T,U,V> : IModel_OneToOne<T,U,V>
     {
-        string Remark { get; set; }
+        string? Remark { get; set; }
     }
 }

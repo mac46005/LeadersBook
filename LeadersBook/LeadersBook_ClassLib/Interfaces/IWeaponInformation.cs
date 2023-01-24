@@ -9,10 +9,10 @@ namespace LeadersBook_ClassLib.Interfaces
 {
     public interface IWeaponInformation<T,U,V> : IModel_OneToOne<T,U,V>
     {
-        string WeaponsNumber { get; set; }
+        string? WeaponsNumber { get; set; }
         /// <summary>
         /// Weapon Serial Number
         /// </summary>
-        string SN { get; set; }
+        string? SN { get; set; }
     }
 }

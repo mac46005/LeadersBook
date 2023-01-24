@@ -9,10 +9,10 @@ namespace LeadersBook_ClassLib.Interfaces
 {
     public interface INBC_Information<T,U,V> : IModel_OneToOne<T,U,V>
     {
-        string NBC_Suit_Size { get; set; }
-        string MarkNumber { get; set; }
-        bool InsertRequired { get; set; }
-        DateTime Date_NBC_Prof { get; set; }
-        string CONF { get; set; }
+        string? NBC_Suit_Size { get; set; }
+        string? MarkNumber { get; set; }
+        bool? InsertRequired { get; set; }
+        DateTime? Date_NBC_Prof { get; set; }
+        string? CONF { get; set; }
     }
 }
