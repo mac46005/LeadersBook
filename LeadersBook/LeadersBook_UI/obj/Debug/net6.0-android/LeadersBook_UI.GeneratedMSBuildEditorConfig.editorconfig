@@ -28,6 +28,66 @@ build_metadata.AdditionalFiles.ManifestResourceName = LeadersBook_UI.MainPage.xa
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+[C:/Users/mac46/Desktop/LeadersBook/LeadersBook/LeadersBook_UI/MVVM/Views/BattleFocusMenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LeadersBook_UI.MVVM.Views.BattleFocusMenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\BattleFocusMenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\BattleFocusMenuPage.xaml
+
+[C:/Users/mac46/Desktop/LeadersBook/LeadersBook/LeadersBook_UI/MVVM/Views/ChainOfCommandMenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LeadersBook_UI.MVVM.Views.ChainOfCommandMenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\ChainOfCommandMenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\ChainOfCommandMenuPage.xaml
+
+[C:/Users/mac46/Desktop/LeadersBook/LeadersBook/LeadersBook_UI/MVVM/Views/CoverPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LeadersBook_UI.MVVM.Views.CoverPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\CoverPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\CoverPage.xaml
+
+[C:/Users/mac46/Desktop/LeadersBook/LeadersBook/LeadersBook_UI/MVVM/Views/EquipmentDataMenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LeadersBook_UI.MVVM.Views.EquipmentDataMenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\EquipmentDataMenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\EquipmentDataMenuPage.xaml
+
+[C:/Users/mac46/Desktop/LeadersBook/LeadersBook/LeadersBook_UI/MVVM/Views/LeaderInformationPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LeadersBook_UI.MVVM.Views.LeaderInformationPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\LeaderInformationPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\LeaderInformationPage.xaml
+
+[C:/Users/mac46/Desktop/LeadersBook/LeadersBook/LeadersBook_UI/MVVM/Views/PersonalDataMenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LeadersBook_UI.MVVM.Views.PersonalDataMenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\PersonalDataMenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\PersonalDataMenuPage.xaml
+
+[C:/Users/mac46/Desktop/LeadersBook/LeadersBook/LeadersBook_UI/MVVM/Views/PhoneListingMenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LeadersBook_UI.MVVM.Views.PhoneListingMenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\PhoneListingMenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\PhoneListingMenuPage.xaml
+
+[C:/Users/mac46/Desktop/LeadersBook/LeadersBook/LeadersBook_UI/MVVM/Views/ReferencesMenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LeadersBook_UI.MVVM.Views.ReferencesMenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\ReferencesMenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\ReferencesMenuPage.xaml
+
+[C:/Users/mac46/Desktop/LeadersBook/LeadersBook/LeadersBook_UI/MVVM/Views/ScheduledEventsMenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LeadersBook_UI.MVVM.Views.ScheduledEventsMenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\ScheduledEventsMenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\ScheduledEventsMenuPage.xaml
+
+[C:/Users/mac46/Desktop/LeadersBook/LeadersBook/LeadersBook_UI/MVVM/Views/TrainingManagementMenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LeadersBook_UI.MVVM.Views.TrainingManagementMenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\TrainingManagementMenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\TrainingManagementMenuPage.xaml
+
 [C:/Users/mac46/Desktop/LeadersBook/LeadersBook/LeadersBook_UI/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LeadersBook_UI.Resources.Styles.Colors.xaml

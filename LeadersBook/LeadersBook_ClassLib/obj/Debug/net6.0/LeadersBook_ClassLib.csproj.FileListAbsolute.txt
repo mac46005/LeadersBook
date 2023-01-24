@@ -1,0 +1,15 @@
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\LeadersBook_ClassLib\bin\Debug\net6.0\LeadersBook_ClassLib.deps.json
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\LeadersBook_ClassLib\bin\Debug\net6.0\LeadersBook_ClassLib.dll
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\LeadersBook_ClassLib\bin\Debug\net6.0\LeadersBook_ClassLib.pdb
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\LeadersBook_ClassLib\bin\Debug\net6.0\DbManipulation_ClassLib.dll
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\LeadersBook_ClassLib\bin\Debug\net6.0\DbManipulation_ClassLib.pdb
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\LeadersBook_ClassLib\obj\Debug\net6.0\LeadersBook_ClassLib.csproj.AssemblyReference.cache
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\LeadersBook_ClassLib\obj\Debug\net6.0\LeadersBook_ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\LeadersBook_ClassLib\obj\Debug\net6.0\LeadersBook_ClassLib.AssemblyInfoInputs.cache
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\LeadersBook_ClassLib\obj\Debug\net6.0\LeadersBook_ClassLib.AssemblyInfo.cs
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\LeadersBook_ClassLib\obj\Debug\net6.0\LeadersBook_ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\LeadersBook_ClassLib\obj\Debug\net6.0\LeadersBook_ClassLib.csproj.CopyComplete
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\LeadersBook_ClassLib\obj\Debug\net6.0\LeadersBook_ClassLib.dll
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\LeadersBook_ClassLib\obj\Debug\net6.0\refint\LeadersBook_ClassLib.dll
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\LeadersBook_ClassLib\obj\Debug\net6.0\LeadersBook_ClassLib.pdb
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\LeadersBook_ClassLib\obj\Debug\net6.0\ref\LeadersBook_ClassLib.dll

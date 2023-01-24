@@ -1,0 +1,12 @@
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\DbManipulation_ClassLib\bin\Debug\net6.0\DbManipulation_ClassLib.deps.json
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\DbManipulation_ClassLib\bin\Debug\net6.0\DbManipulation_ClassLib.dll
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\DbManipulation_ClassLib\bin\Debug\net6.0\DbManipulation_ClassLib.pdb
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\DbManipulation_ClassLib\obj\Debug\net6.0\DbManipulation_ClassLib.csproj.AssemblyReference.cache
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\DbManipulation_ClassLib\obj\Debug\net6.0\DbManipulation_ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\DbManipulation_ClassLib\obj\Debug\net6.0\DbManipulation_ClassLib.AssemblyInfoInputs.cache
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\DbManipulation_ClassLib\obj\Debug\net6.0\DbManipulation_ClassLib.AssemblyInfo.cs
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\DbManipulation_ClassLib\obj\Debug\net6.0\DbManipulation_ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\DbManipulation_ClassLib\obj\Debug\net6.0\DbManipulation_ClassLib.dll
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\DbManipulation_ClassLib\obj\Debug\net6.0\refint\DbManipulation_ClassLib.dll
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\DbManipulation_ClassLib\obj\Debug\net6.0\DbManipulation_ClassLib.pdb
+C:\Users\mac46\Desktop\LeadersBook\LeadersBook\DbManipulation_ClassLib\obj\Debug\net6.0\ref\DbManipulation_ClassLib.dll
