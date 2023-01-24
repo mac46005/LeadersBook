@@ -15,6 +15,6 @@ namespace LeadersBook_ClassLib.Interfaces
         IContactInformation<T,U,ISoldier<T,U>> ContactInformation { get; set; }
         IWeaponInformation<T,U,ISoldier<T,U>> WeaponInformation { get; set; }
         List<IWeaponsQualification<T,U, ISoldier<T, U>>> WeaponsQualifications { get; set; }
-
+        List<IPhysicalTrainingExam<T,U,ISoldier<T,U>>> PhysicalTrainingExams { get; set; }
     }
 }
