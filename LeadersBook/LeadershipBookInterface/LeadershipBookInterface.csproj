@@ -38,14 +38,111 @@
 		<MauiSplashScreen Include="Resources\Splash\splash.svg" Color="#512BD4" BaseSize="128,128" />
 
 		<!-- Images -->
-		<MauiImage Include="Resources\Images\*" />
 		<MauiImage Update="Resources\Images\dotnet_bot.svg" BaseSize="168,208" />
-
+		<MauiImage Include="Resources\Images\brigadier_general.svg" />
+		<MauiImage Include="Resources\Images\captain.svg" />
+		<MauiImage Include="Resources\Images\colonel.svg" />
+		<MauiImage Include="Resources\Images\command_sergeant_major.svg" />
+		<MauiImage Include="Resources\Images\corporal.svg" />
+		<MauiImage Include="Resources\Images\cw1.svg" />
+		<MauiImage Include="Resources\Images\cw2.svg" />
+		<MauiImage Include="Resources\Images\cw3.svg" />
+		<MauiImage Include="Resources\Images\cw4.svg" />
+		<MauiImage Include="Resources\Images\cw5.svg" />
+		<MauiImage Include="Resources\Images\first_lieutenant.svg" />
+		<MauiImage Include="Resources\Images\second_lieutenant.svg" />
+		<MauiImage Include="Resources\Images\general.svg" />
+		<MauiImage Include="Resources\Images\general_of_the_army.svg" />
+		<MauiImage Include="Resources\Images\lieutenant_general.svg" />
+		<MauiImage Include="Resources\Images\major.svg" />
+		<MauiImage Include="Resources\Images\major_general.svg" />
+		<MauiImage Include="Resources\Images\master_sergeant.svg" />
+		<MauiImage Include="Resources\Images\private.svg" />
+		<MauiImage Include="Resources\Images\private_first_class.svg" />
+		<MauiImage Include="Resources\Images\second_lieutenant.svg" />
+		<MauiImage Include="Resources\Images\sergeant.svg" />
+		<MauiImage Include="Resources\Images\sergeant_first_class.svg" />
+		<MauiImage Include="Resources\Images\sergeant_major.svg" />
+		<MauiImage Include="Resources\Images\sergeant_major_of_the_army.svg" />
+		<MauiImage Include="Resources\Images\specialist.svg" />
+		<MauiImage Include="Resources\Images\staff_sergeant.svg" />
 		<!-- Custom Fonts -->
 		<MauiFont Include="Resources\Fonts\*" />
 
 		<!-- Raw Assets (also remove the "Resources\Raw" prefix) -->
 		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+		<Folder Include="MVVM\Models\" />
+		<Folder Include="MVVM\Views\BattleFocus\" />
+		<Folder Include="MVVM\Views\ChainOfCommand\" />
+		<Folder Include="MVVM\Views\EquipmentData\" />
+		<Folder Include="MVVM\Views\TrainingManagement\" />
+		<Folder Include="MVVM\Views\ScheduledEvents\" />
+		<Folder Include="MVVM\Views\References\" />
+		<Folder Include="MVVM\Views\PhoneListing\" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.1.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\DbManipulation_ClassLib\DbManipulation_ClassLib.csproj" />
+	  <ProjectReference Include="..\LeadersBook_ClassLib\LeadersBook_ClassLib.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Compile Update="MVVM\Views\PersonalData\AddEditSoldierPage.xaml.cs">
+	    <DependentUpon>AddEditSoldierPage.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="MVVM\Views\PersonalData\SoldierListPage.xaml.cs">
+	    <DependentUpon>SoldierListPage.xaml</DependentUpon>
+	  </Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+		<MauiXaml Update="MVVM\Views\BattleFocusMenuPage.xaml">
+			<Generator>MSBuild:Compile</Generator>
+		</MauiXaml>
+		<MauiXaml Update="MVVM\Views\ChainOfCommandMenu.xaml">
+			<Generator>MSBuild:Compile</Generator>
+		</MauiXaml>
+		<MauiXaml Update="MVVM\Views\CoverPage.xaml">
+			<Generator>MSBuild:Compile</Generator>
+		</MauiXaml>
+		<MauiXaml Update="MVVM\Views\EquipmentDataMenuPage.xaml">
+			<Generator>MSBuild:Compile</Generator>
+		</MauiXaml>
+		<MauiXaml Update="MVVM\Views\PersonalDataMenuPage.xaml">
+			<Generator>MSBuild:Compile</Generator>
+		</MauiXaml>
+		<MauiXaml Update="MVVM\Views\PersonalData\AddEditSoldierPage.xaml">
+		  <Generator>MSBuild:Compile</Generator>
+		</MauiXaml>
+		<MauiXaml Update="MVVM\Views\PersonalData\AddEditViews\PersonDataView.xaml">
+		  <Generator>MSBuild:Compile</Generator>
+		</MauiXaml>
+		<MauiXaml Update="MVVM\Views\PersonalData\SoldierListPage.xaml">
+		  <Generator>MSBuild:Compile</Generator>
+		</MauiXaml>
+		<MauiXaml Update="MVVM\Views\PersonalData\SoldiersPersonalDataPage.xaml">
+		  <Generator>MSBuild:Compile</Generator>
+		</MauiXaml>
+		<MauiXaml Update="MVVM\Views\PhoneListingMenuPage.xaml">
+			<Generator>MSBuild:Compile</Generator>
+		</MauiXaml>
+		<MauiXaml Update="MVVM\Views\ReferencesMenuPage.xaml">
+			<Generator>MSBuild:Compile</Generator>
+		</MauiXaml>
+		<MauiXaml Update="MVVM\Views\ScheduledEventsMenuPage.xaml">
+			<Generator>MSBuild:Compile</Generator>
+		</MauiXaml>
+		<MauiXaml Update="MVVM\Views\TrainingManagementMenuPage.xaml">
+			<Generator>MSBuild:Compile</Generator>
+		</MauiXaml>
 	</ItemGroup>
 
 </Project>

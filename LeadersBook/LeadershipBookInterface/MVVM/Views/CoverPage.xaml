@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LeadershipBookInterface.MVVM.Views.CoverPage"
+             Title="CoverPage">
+    <VerticalStackLayout
+        VerticalOptions="Center"
+        Spacing="30">
+        <FlexLayout
+             
+            HorizontalOptions="Center"
+            HeightRequest="200">
+            <Image Source="corporal.png" WidthRequest="50"/>
+            <Image Source="sergeant.png" WidthRequest="50"/>
+            <Image Source="sergeant_first_class.png" WidthRequest="50"/>
+            <Image Source="master_sergeant.png" WidthRequest="50"/>
+            <Image Source="first_sergeant.png" WidthRequest="50"/>
+            <Image Source="sergeant_major.png" WidthRequest="50"/>
+            <Image Source="command_sergeant_major.png"/>
+            <Image Source="sergeant_marjor_of_the_army.png" WidthRequest="50"/>
+        </FlexLayout>
+        <Label 
+            Text="Leader's Book"
+            FontSize="100"
+            HorizontalOptions="Center" />
+        <Label
+            Text="SGT Preciado Marco A."
+            FontSize="Large"
+            HorizontalOptions="Center"/>
+        <Label
+            Text="3175th Chemical Company"
+            FontSize="Medium"
+            HorizontalOptions="Center"/>
+    </VerticalStackLayout>
+</ContentPage>
