@@ -9,7 +9,7 @@ namespace LeadershipBookInterface.MVVM.Factories.ViewFactories
 {
     public interface IViewFromModelViewModelFactory<T,U> : IViewFactory<T>
     {
-        object CreateViewModel(IModelViewModel<U> modelViewModel);
+        object CreateView(IModelViewModel<U> modelViewModel);
     }
 }
 

@@ -17,9 +17,10 @@ namespace LeadershipBookInterface.MVVM.Factories.ViewFactories
             throw new NotImplementedException();
         }
 
-        public object CreateViewModel(IModelViewModel<IPerson<int, int, ISoldier<int, int>>> modelViewModel)
+        public object CreateView(IModelViewModel<IPerson<int, int, ISoldier<int, int>>> modelViewModel)
         {
-            throw new NotImplementedException();
+            PersonDataView view = new PersonDataView(modelViewModel);
+            return view;
         }
     }
 }
