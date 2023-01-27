@@ -13,15 +13,15 @@ namespace LeadershipBookInterface.MVVM.ViewModels.PersonalData
     public partial class AddEditSoldierViewModel : ModelViewModel<ISoldier<int,int>>
     {
         [ObservableProperty]
-        ObservableCollection<object> viewModels;
-        public AddEditSoldierViewModel()
+        ObservableCollection<ContentView> viewModels = new ObservableCollection<ContentView>();
+        public AddEditSoldierViewModel(PersonDataView personDataView)
         {
-            PersonDataView personDataView = new PersonDataView();
-            viewModels.Add(personDataView);
-            SelectedView = personDataView;
+            PersonDataView _personDataView = personDataView;
+            viewModels.Add(_personDataView);
+            SelectedView = _personDataView;
         }
         [ObservableProperty]
-        object selectedView;
+        ContentView selectedView;
     }
 }
 

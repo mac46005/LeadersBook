@@ -6,7 +6,16 @@
              xmlns:personlDataViews="clr-namespace:LeadershipBookInterface.MVVM.Views.PersonalData"
              xmlns:personalDataViewModels="clr-namespace:LeadershipBookInterface.MVVM.ViewModels.PersonalData"
              x:DataType="personalDataViewModels:AddEditSoldierViewModel">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Person Information"
+                     />
+        <ToolbarItem Text="Personal Information"/>
+        <ToolbarItem Text="Contact Information"/>
+        <ToolbarItem Text="Weapon Information"/>
+        <ToolbarItem Text="Military Drivers Information"/>
+        <ToolbarItem Text="Vehicle Information"/>
+    </ContentPage.ToolbarItems>
     <Grid>
-        <ContentView ControlTemplate="{Binding SelectedView}"/>
+        <ContentView Content="{Binding SelectedView}"/>
     </Grid>
 </ContentPage>

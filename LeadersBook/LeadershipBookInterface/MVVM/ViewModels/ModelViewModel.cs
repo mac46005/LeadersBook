@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LeadershipBookInterface.MVVM.ViewModels
 {
-    public abstract class ModelViewModel<T> : ObservableObject,IModelViewModel<T>
+    public partial class ModelViewModel<T> : ObservableObject,IModelViewModel<T>
     {
         private T _model;
         public T Model 

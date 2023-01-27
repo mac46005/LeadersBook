@@ -75,6 +75,7 @@
 
 
 	<ItemGroup>
+		<Folder Include="MVVM\Factories\ModelFactories\" />
 		<Folder Include="MVVM\Models\" />
 		<Folder Include="MVVM\Views\BattleFocus\" />
 		<Folder Include="MVVM\Views\ChainOfCommand\" />
